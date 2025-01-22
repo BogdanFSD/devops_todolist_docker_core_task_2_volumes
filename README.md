@@ -66,7 +66,7 @@ or start on the [landing page](http://localhost:8000/)
 
 
 
-## How to run MySQL container 
+## How to run MySQL  container 
 
 ```
 docker pull bohdanfsd/mysql-local
