@@ -7,7 +7,7 @@ CSS | [Skeleton](http://getskeleton.com/)
 JS  | [jQuery](https://jquery.com/)
 
 ## Explore
-Try it out by installing the requirements. (Works only with Python >= 3.8, due to Django 4)
+Try it out by installing the  requirements. (Works only with Python >= 3.8, due to Django 4)
 
     pip install -r requirements.txt
 
